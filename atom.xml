@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>博客</title>
+  
+  <subtitle>博客 PHP 开发</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://isdonga.github.io/"/>
+  <updated>2020-04-05T02:49:41.329Z</updated>
+  <id>https://isdonga.github.io/</id>
+  
+  <author>
+    <name>是阿东啊</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://isdonga.github.io/2020/04/05/hello-world/"/>
+    <id>https://isdonga.github.io/2020/04/05/hello-world/</id>
+    <published>2020-04-05T02:49:41.329Z</published>
+    <updated>2020-04-05T02:49:41.329Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+      <category term="helloworld" scheme="https://isdonga.github.io/categories/helloworld/"/>
+    
+    
+      <category term="helloworld" scheme="https://isdonga.github.io/tags/helloworld/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test-2</title>
+    <link href="https://isdonga.github.io/2020/03/13/%E6%B5%8B%E8%AF%952/"/>
+    <id>https://isdonga.github.io/2020/03/13/测试2/</id>
+    <published>2020-03-13T00:56:15.000Z</published>
+    <updated>2020-04-05T02:49:41.329Z</updated>
+    
+    <content type="html"><![CDATA[<p>开始写测试</p><h2 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">fafasfasasga</span><br></pre></td></tr></table></figure><h2 id="内容的暗殿s"><a href="#内容的暗殿s" class="headerlink" title="内容的暗殿s"></a>内容的暗殿s</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;开始写测试&lt;/p&gt;
+&lt;h2 id=&quot;内容&quot;&gt;&lt;a href=&quot;#内容&quot; class=&quot;headerlink&quot; title=&quot;内容&quot;&gt;&lt;/a&gt;内容&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter
+      
+    
+    </summary>
+    
+      <category term="test" scheme="https://isdonga.github.io/categories/test/"/>
+    
+    
+      <category term="test" scheme="https://isdonga.github.io/tags/test/"/>
+    
+      <category term="test-2" scheme="https://isdonga.github.io/tags/test-2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试文字</title>
+    <link href="https://isdonga.github.io/2019/07/12/%E6%B5%8B%E8%AF%95%E6%96%87%E5%AD%97/"/>
+    <id>https://isdonga.github.io/2019/07/12/测试文字/</id>
+    <published>2019-07-12T00:56:15.000Z</published>
+    <updated>2020-04-05T02:49:41.329Z</updated>
+    
+    <content type="html"><![CDATA[<p>开始写测试</p><h2 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">fafasfasasga</span><br></pre></td></tr></table></figure><h2 id="内容的暗殿s"><a href="#内容的暗殿s" class="headerlink" title="内容的暗殿s"></a>内容的暗殿s</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;开始写测试&lt;/p&gt;
+&lt;h2 id=&quot;内容&quot;&gt;&lt;a href=&quot;#内容&quot; class=&quot;headerlink&quot; title=&quot;内容&quot;&gt;&lt;/a&gt;内容&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter
+      
+    
+    </summary>
+    
+      <category term="test" scheme="https://isdonga.github.io/categories/test/"/>
+    
+    
+      <category term="test" scheme="https://isdonga.github.io/tags/test/"/>
+    
+  </entry>
+  
+</feed>
